@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "lib": [ "ES5" ],
+      "module": "system",
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "outFile": "tsc_post_out.js",
+      "sourceMap": true
+    },
+    "include": ["**/*"],
+    }
